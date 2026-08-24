@@ -5,7 +5,7 @@ Maven Fuzzy Factory, an online retailer that sells teddy bears. Database used in
 Providing key key insights collected on analysis, for optimizing marketing channels, measuring website conversion performance and understanding the impact of new product launches
 
 # Executive Summary
-Full PDF Report can be viewed [here]()
+Full PDF Report can be viewed [here](https://github.com/Nhlanhla-NM/Maven-Fuzzy-Factory-Analysis-Report/blob/main/Maven%20Fuzzy%20Factory%20Analysis%20Report.pdf)
 ## Insights
 <img width="468" height="266" alt="Screenshot 2026-08-24 121028" src="https://github.com/user-attachments/assets/f0f619c2-4478-4e4e-bf31-1c8ca2de8449" />
 
@@ -16,7 +16,7 @@ Full PDF Report can be viewed [here]()
 <img width="542" height="397" alt="Screenshot 2026-08-24 121905" src="https://github.com/user-attachments/assets/fdbd9dd1-34a0-4d0f-a8c4-d2856fef8416" />
 
 ## Suggestions:
-- Provide promotion deals for The MRr.Fuzzy bear product to increase customer base
+- Provide promotion deals for The Mr.Fuzzy bear product to increase customer base
 
 - Mainly advertise The Mr.Fuzzy bear product mostly amongst other products
 
